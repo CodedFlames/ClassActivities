@@ -1,0 +1,20 @@
+
+#list1 {
+    border: solid green;
+}
+
+#list2 {
+    border: solid green;
+}
+
+#list2 li{
+    font-size: 30px;
+}
+
+.cool {
+    color: orange;
+}
+
+li {
+    color: violet;
+}
